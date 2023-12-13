@@ -1,0 +1,10 @@
+name: VPNDetector
+version: '${project.version}'
+main: com.transcendence.VPNDetector
+api-version: '1.20'
+load: STARTUP
+authors: [Transcendence_]
+commands:
+  vpndetector:
+    usage: /vpndetector
+    aliases: [vpnd, vd]

@@ -1,0 +1,18 @@
+# VPNDetector configuration file
+
+# Set your custom plugin prefix
+# If you don't want to use it, just leave the field blank: ''
+plugin_prefix: ''
+
+# Plugin configurations
+# Set this to true if you want to bypass control with 'vpndetector.bypass' perm
+admin_bypass: false
+
+# Plugin messages
+default_command_message: '&aPlugin developed by &6Transcendence_'
+kick_message: "&cVPN Detected. \n If you think this is a mistake, contact us: server@info.com"
+config_reload_message: '&aConfig reloaded successfully'
+
+# Plugin error messages
+sender_not_allowed: '&cOnly players with perms and console can execute this command!'
+no_permissions: "You don't have permissions to execute this command!"

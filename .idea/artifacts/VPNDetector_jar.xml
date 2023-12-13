@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="VPNDetector:jar">
+    <output-path>$PROJECT_DIR$/../../MyServer/plugins</output-path>
+    <root id="archive" name="VPNDetector.jar">
+      <element id="module-output" name="VPNDetector" />
+    </root>
+  </artifact>
+</component>
